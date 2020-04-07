@@ -1,4 +1,4 @@
-This repo contains:
+# This repo contains:
   * LGM_template.ipynb: Notebook with the python template functions that follow
       the programming assignment.
   * data: data directory that contains:
