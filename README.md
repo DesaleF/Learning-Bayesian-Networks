@@ -1,5 +1,5 @@
 # This repo contains:
-  * LGM_template.ipynb: Notebook with the python code functions of each task.
+  * LGM_kinect.ipynb: Notebook with the python code functions of each task.
   * data: data directory that contains:
       - data.mat: file containing the data for the project. It can be opened 
                   with function 'load_dataset' in notebook file. The data
